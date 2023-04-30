@@ -1,0 +1,26 @@
+.transactionHistory {
+  width: 687px;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-color: rgb(205, 243, 207);
+  border: 1px solid;
+}
+th,
+td {
+  border: 1px solid;
+  padding: 10px;
+}
+
+
+th {
+  background-color: rgb(205, 243, 207);
+}
+tr {
+  background-color: rgb(234, 242, 232);
+}
+
+table td:first-child {
+  text-transform: uppercase;
+  font-weight: 600;
+}
